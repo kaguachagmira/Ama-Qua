@@ -1,0 +1,219 @@
+#mensajePuntaje
+{
+    left: 18%;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#mensajeInicio
+{
+    left: 18%;
+    background-color: cian;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#imagenResultado img
+{
+    height: 255px;
+    width: 350px;
+    position:  absolute;
+    left: 245px;
+    top: 140px;
+    border-style: outset ;
+}
+.posicion
+{
+    width: 350px;
+    position: relative;
+    top: 405px;
+    left: 245px;
+}
+.textoInicio
+{
+    border-style: outset;
+    text-align: center;
+    position: relative;
+    left: 150px;
+    top: 0.5px;
+    width: 550px;
+}
+.videito
+{
+    position: absolute;
+    left: 80px;
+    top: 70px;
+}
+#rellenarTexto
+{
+    text-align: center;
+    border-style: outset;
+    position: relative;
+    left: 245px;
+    top: 30px;
+    width: 350px;
+}
+.plastics
+{
+    position: absolute;
+    background-image: url("../img/fondos/fondo.jpg");
+    width: 850px;
+    height: 525px;
+    left: 18%;
+    border-style: solid;
+}
+.platanoOrganico
+{
+    position: absolute;
+    top: 260px;
+    left: 410px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.manzanaOrganico
+{
+    position: absolute;
+    top: 240px;
+    left: 770px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.polloOrganico
+{
+    position: absolute;
+    top: 460px;
+    left: 470px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.botellaVidrio
+{
+    position: absolute;
+    top: 335px;
+    left: 550px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.copaVidrio
+{
+    position: absolute;
+    top: 420px;
+    left: 180px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.platoVidrio
+{
+    position: absolute;
+    top: 470px;
+    left: 750px;
+    border-style: dashed;
+    cursor: pointer;
+}
+.botellaPlastico
+{
+    position: absolute;
+    top: 350px;
+    left: 45px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.vasoPlastico
+{
+    position: absolute;
+    top: 330px;
+    left: 750px;
+    border-style: dashed;
+    cursor: pointer;
+}
+.peinePlastico
+{
+    position: absolute;
+    top: 310px;
+    left: 280px;
+    border-style: dashed;
+    cursor: pointer;
+}
+.papelPapel    
+{
+    position: absolute;
+    top: 35px;
+    left: 670px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.cajaPapel
+{
+    position: absolute;
+    top: 180px;
+    left: 460px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.avionPapel
+{
+    position: absolute;
+    top: 150px;
+    left: 180px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.plasticMarron
+{
+    position: absolute;
+    left:20%;
+    top:101%;
+    cursor: pointer;
+}
+.plasticGreen
+{
+    position: absolute;
+    left:35%;
+    top:101%;
+    cursor: pointer  ;
+}
+.plasticYellow
+{
+    position: absolute;
+    left:50%;
+    top:101%;
+    cursor: pointer;
+}
+.plasticBlue
+{
+    position: absolute;
+    left:65%;
+    top:101%;
+    cursor: pointer;
+}
+.hold
+{
+    border: solid chartreuse 4px;
+    cursor: pointer;
+}
+.hovered
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+.invisible
+{
+    display: none;
+    cursor: pointer;
+}
+.hoveredP
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+.cuestion
+{
+    position: absolute;
+    left: 375px;
+}

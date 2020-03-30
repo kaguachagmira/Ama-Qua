@@ -1,0 +1,195 @@
+#mensajePuntaje6
+{
+    left: 18%;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#mensajeInicio6
+{
+    left: 18%;
+    background-color: cian;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#imagenResultado6 img
+{
+    height: 255px;
+    width: 350px;
+    position:  absolute;
+    left: 245px;
+    top: 140px;
+    border-style: outset ;
+}
+.posicion6
+{
+    width: 350px;
+    position: relative;
+    top: 405px;
+    left: 245px;
+}
+.textoInicio6
+{
+    border-style: outset;
+    text-align: center;
+    position: relative;
+    left: 150px;
+    top: 0.5px;
+    width: 550px;
+}
+.videito
+{
+    position: absolute;
+    left: 80px;
+    top: 70px;
+}
+#rellenarTexto6
+{
+    text-align: center;
+    border-style: outset;
+    position: relative;
+    left: 245px;
+    top: 30px;
+    width: 350px;
+}
+.plastics6
+{
+    position: absolute;
+    background-image: url("../img/fondos/fondoPapelPlasticoVidrio.png");
+    width: 850px;
+    height: 525px;
+    left: 18%;
+    border-style: solid;
+}
+.botellaVidrio6
+{
+    position: absolute;
+    top: 335px;
+    left: 550px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.copaVidrio6
+{
+    position: absolute;
+    top: 420px;
+    left: 230px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.platoVidrio6
+{
+    position: absolute;
+    top: 470px;
+    left: 600px;
+    border-style: dashed;
+    cursor: pointer;
+}
+.botellaPlastico6
+{
+    position: absolute;
+    top: 300px;
+    left: 45px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.vasoPlastico6
+{
+    position: absolute;
+    top: 330px;
+    left: 750px;
+    border-style: dashed;
+    cursor: pointer;
+}
+.peinePlastico6
+{
+    position: absolute;
+    top: 310px;
+    left: 350px;
+    border-style: dashed;
+    cursor: pointer;
+}
+.papelPapel6
+{
+    position: absolute;
+    top: 210px;
+    left: 720px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.cajaPapel6
+{
+    position: absolute;
+    top: 240px;
+    left: 480px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.avionPapel6
+{
+    position: absolute;
+    top: 280px;
+    left: 180px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.plasticMarron6
+{
+    position: absolute;
+    left:20%;
+    top:101%;
+    cursor: pointer;
+}
+.plasticGreen6
+{
+    position: absolute;
+    left:35%;
+    top:101%;
+    cursor: pointer  ;
+}
+.plasticYellow6
+{
+    position: absolute;
+    left:50%;
+    top:101%;
+    cursor: pointer;
+}
+.plasticBlue6
+{
+    position: absolute;
+    left:65%;
+    top:101%;
+    cursor: pointer;
+}
+.hold6
+{
+    border: solid chartreuse 4px;
+    cursor: pointer;
+}
+.hovered6
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+.invisible6
+{
+    display: none;
+    cursor: pointer;
+}
+.hoveredP6
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+.cuestion6
+{
+    position: absolute;
+    left: 375px;
+}

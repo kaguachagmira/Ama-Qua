@@ -1,0 +1,191 @@
+#mensajePuntaje4
+{
+    left: 18%;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#mensajeInicio4
+{
+    left: 18%;
+    background-color: cian;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#imagenResultado4 img
+{
+    height: 255px;
+    width: 350px;
+    position:  absolute;
+    left: 245px;
+    top: 140px;
+    border-style: outset ;
+}
+#rellenarTexto4
+{
+    text-align: center;
+    border-style: outset;
+    position: relative;
+    left: 245px;
+    top: 30px;
+    width: 350px;
+}
+.textoInicio4
+{
+    border-style: outset;
+    text-align: center;
+    position: relative;
+    left: 150px;
+    top: 0.5px;
+    width: 550px;
+}
+.videito4
+{
+    position: absolute;
+    left: 80px;
+    top: 70px;
+}
+.posicion4
+{
+    width: 350px;
+    position: relative;
+    top: 405px;
+    left: 245px;
+}
+.plastics4
+{
+    position: absolute;
+    background-image: url("../img/fondos/fondoPapelPlastico.jpg");
+    width: 850px;
+    height: 479px;
+    left: 18%;
+    border-style: solid;
+}
+
+.paperBlue4
+{       position: absolute;
+        left:50%;
+        top:101%;
+        cursor: pointer  ;
+}
+.plasticYellow4
+{
+    position: absolute;
+    left:35%;
+    top:101%;
+    cursor: pointer;
+}
+
+/*basuras*/
+.periodicoPapel4
+{
+    position: absolute;
+    top: 350px;
+    left: 20px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+.revistasPapel4
+{
+    position: absolute;
+    top: 370px;
+    left: 170px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+.sobrePapel4
+{
+    position: absolute;
+    top: 380px;
+    left: 420px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+.sobrecorreoPapel4
+{
+    position: absolute;
+    top: 350px;
+    left: 700px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+.tripticoPapel4
+{
+    position: absolute;
+    top: 400px;
+    left: 550px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.botellaPlastico4
+{
+    position: absolute;
+    top: 140px;
+    left: 670px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.vasoPlastico4
+{
+    position: absolute;
+    top: 270px;
+    left: 340px;
+    border-style: dashed;
+    cursor: pointer;
+}
+.peinePlastico4
+{
+    position: absolute;
+    top: 170px;
+    left: 220px;
+    border-style: dashed;
+    cursor: pointer;
+}
+.tapaPlastico4
+{
+    position: absolute;
+    top: 340px;
+    left: 280px;
+    border-style: dashed;
+    cursor: pointer; 
+}
+.sorbetePlastico4
+{
+    position: absolute;
+    top: 220px;
+    left: 560px;
+    border-style: dashed;
+    cursor: pointer; 
+}
+.hold
+{
+    border: solid chartreuse 4px;
+    cursor: pointer;
+}
+.hovered4
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+.invisible4
+{
+    display: none;
+    cursor: pointer;
+}
+.hoveredP
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+

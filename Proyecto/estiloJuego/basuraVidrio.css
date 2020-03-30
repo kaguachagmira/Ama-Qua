@@ -1,0 +1,172 @@
+#mensajePuntaje1
+{
+    left: 18%;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#mensajeInicio1
+{
+    left: 18%;
+    background-color: cian;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#imagenResultado1 img
+{
+    height: 255px;
+    width: 350px;
+    position:  absolute;
+    left: 245px;
+    top: 140px;
+    border-style: outset ;
+}
+#rellenarTexto1
+{
+    text-align: center;
+    border-style: outset;
+    position: relative;
+    left: 245px;
+    top: 30px;
+    width: 350px;
+}
+.textoInicio1
+{
+    border-style: outset;
+    text-align: center;
+    position: relative;
+    left: 150px;
+    top: 0.5px;
+    width: 550px;
+}
+.videito1
+{
+    position: absolute;
+    left: 80px;
+    top: 70px;
+}
+.posicion1
+{
+    width: 350px;
+    position: relative;
+    top: 405px;
+    left: 245px;
+}
+.plastics1
+{
+    position: absolute;
+    background-image: url("../img/fondos/fondoVidrio.jpg");
+    width: 850px;
+    height: 525px;
+    left: 18%;
+    border-style: solid;
+}
+
+/*basuras*/
+.botellaVidrio1
+{
+    position: absolute;
+    top: 355px;
+    left: 550px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.copaVidrio1
+{
+    position: absolute;
+    top: 420px;
+    left: 300px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.platoVidrio1
+{
+    position: absolute;
+    top: 400px;
+    left: 750px;
+    border-style: dashed;
+    cursor: pointer;
+}
+
+.cervezaVidrio1
+{
+    position: absolute;
+    top: 335px;
+    left: 350px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.cocaVidrio1
+{
+    position: absolute;
+    top: 335px;
+    left: 10px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+
+.mermeladaVidrio1
+{
+    position: absolute;
+    top: 250px;
+    left: 300px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+.ronVidrio1
+{
+    position: absolute;
+    top: 300px;
+    left: 750px;
+    border-style: dashed;
+    cursor: pointer;
+}
+
+.perfumeVidrio1
+{
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+
+.plasticGreen1
+{
+    position: absolute;
+    left:45%;
+    top:101%;
+    cursor: pointer  ;
+}
+
+.hold
+{
+    border: solid chartreuse 4px;
+    cursor: pointer;
+}
+.hovered1
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+.invisible1
+{
+    display: none;
+    cursor: pointer;
+}
+.hoveredP
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+

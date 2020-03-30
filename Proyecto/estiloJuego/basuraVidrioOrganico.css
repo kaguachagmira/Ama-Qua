@@ -1,0 +1,213 @@
+#mensajePuntaje2
+{
+    left: 18%;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#mensajeInicio2
+{
+    left: 18%;
+    background-color: cian;
+    position: absolute;
+    width: 850px;
+    height: 525px;
+    border-style: outset;
+}
+#imagenResultado2 img
+{
+    height: 255px;
+    width: 350px;
+    position:  absolute;
+    left: 245px;
+    top: 140px;
+    border-style: outset ;
+}
+#rellenarTexto2
+{
+    text-align: center;
+    border-style: outset;
+    position: relative;
+    left: 245px;
+    top: 30px;
+    width: 350px;
+}
+.textoInicio2
+{
+    border-style: outset;
+    text-align: center;
+    position: relative;
+    left: 150px;
+    top: 0.5px;
+    width: 550px;
+}
+.videito2
+{
+    position: absolute;
+    left: 80px;
+    top: 70px;
+}
+.posicion2
+{
+    width: 350px;
+    position: relative;
+    top: 405px;
+    left: 245px;
+}
+.plastics2
+{
+    position: absolute;
+    background-image: url("../img/fondos/fondoVidrioOrganico.jpg");
+    width: 850px;
+    height: 479px;
+    left: 18%;
+    border-style: solid;
+}
+
+/*basuras*/
+.copaVidrio2
+{
+    position: absolute;
+    top: 420px;
+    left: 140px;
+    cursor: pointer;
+    border-style: dashed;
+}
+.platoVidrio2
+{
+    position: absolute;
+    top: 400px;
+    left: 750px;
+    border-style: dashed;
+    cursor: pointer;
+}
+.cocaVidrio2
+{
+    position: absolute;
+    top: 335px;
+    left: 10px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+
+.mermeladaVidrio2
+{
+    position: absolute;
+    top: 280px;
+    left: 550px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+.ronVidrio2
+{
+    position: absolute;
+    top: 300px;
+    left: 750px;
+    border-style: dashed;
+    cursor: pointer;
+}
+
+.perfumeVidrio2
+{
+    position: absolute;
+    top: 275px;
+    left: 100px;
+    cursor: pointer;
+    border-style: dashed;
+}
+
+
+
+.platanoOrganico2
+{
+    position: absolute;
+    top: 260px;
+    left: 410px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.manzanaOrganico2
+{
+    position: absolute;
+    top: 240px;
+    left: 770px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.polloOrganico2
+{
+    position: absolute;
+    top: 350px;
+    left: 230px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.pescadoOrganico2
+{
+    position: absolute;
+    top: 400px;
+    left: 480px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.naranjaOrganico2
+{
+    position: absolute;
+    top: 390px;
+    left: 360px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+.mandarinaOrganico2
+{
+    position: absolute;
+    top: 380px;
+    left: 630px;
+    cursor: pointer;
+    border-style: dashed; 
+}
+
+.plasticMarron2
+{
+    position: absolute;
+    left:33%;
+    top:101%;
+    cursor: pointer;
+}
+
+.plasticGreen2
+{
+    position: absolute;
+    left:56%;
+    top:101%;
+    cursor: pointer  ;
+}
+
+.hold
+{
+    border: solid chartreuse 4px;
+    cursor: pointer;
+}
+.hovered2
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+.invisible2
+{
+    display: none;
+    cursor: pointer;
+}
+.hoveredP
+{
+    background-color: transparent;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+}
+
